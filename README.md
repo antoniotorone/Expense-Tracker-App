@@ -1,12 +1,12 @@
 # Antonio Torone React Project - User Centric Frontend Development
 
-
+[View here the live project](https://antoniotorone.github.io/Expense-Tracker-App/)
 
 ## Expense Tracker Application
 
 The expense tracker is a practical application with the technology to add expenses, store them and divide them by year, to help any user to be on top of their yearly expenses. With an intuitive and reacted interface is very hard to be confused and feel lost. The expense tracker is the perfect app for keep under control your bank account.
 
-<h2>
+<h2 align="center"><img src="https://res.cloudinary.com/anto8913/image/upload/v1667323920/Expense-Tracker-App/expense_tracker_r0029q.jpg"></h2>
 
 ##  User Experience (UX)
 
@@ -72,7 +72,7 @@ The typography choice is the "Noto+Sans+Jp" with a 'normal' font size with '400'
    
 The application was deployed to Github using the following steps.
    
-1. Log in to Github and locate the [Github Repositery].(https://github.com/antoniotorone?tab=repositories)
+1. Log in to Github and locate the [Github Repositery](https://github.com/antoniotorone?tab=repositories)
    
 2. At the top of the repository on the right is locate settings
    
@@ -80,5 +80,5 @@ The application was deployed to Github using the following steps.
    
 4. You will find a Visite site button on grey on the right side of the page
   
-5. Click the button for navigate to the published site [link].(https://antoniotorone.github.io/Expense-Tracker-App/)
+5. Click the button for navigate to the published site [link](https://antoniotorone.github.io/Expense-Tracker-App/)
    
