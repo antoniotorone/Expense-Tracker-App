@@ -66,3 +66,19 @@ The typography choice is the "Noto+Sans+Jp" with a 'normal' font size with '400'
 
    1. The components that display the expenses are well organized because divided by date, name and price; also the font size and the colour contrast help the user visibility.
    
+## Deployment
+   
+### Github pages
+   
+The application was deployed to Github using the following steps.
+   
+1. Log in to Github and locate the [Github Repositery].(https://github.com/antoniotorone?tab=repositories)
+   
+2. At the top of the repository on the right is locate settings
+   
+3. Scroll down the settings page until you locate the "Pages" section.
+   
+4. You will find a Visite site button on grey on the right side of the page
+  
+5. Click the button for navigate to the published site [link].(https://antoniotorone.github.io/Expense-Tracker-App/)
+   
